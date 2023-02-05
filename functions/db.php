@@ -1,6 +1,6 @@
 <?php
 
-$con = mysqli_connect('localhost', 'themeadi_root', 'import_excel', 'themeadi_import_excel');
+$con = mysqli_connect('xxxxx', 'xxxxxxx', 'xxxxxxx', 'xxxxxxx');
 
 function row_count($result){
 

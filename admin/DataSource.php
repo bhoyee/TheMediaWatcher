@@ -22,11 +22,11 @@ class DataSource
     // when using above 7.1.0, declare the below constants as private
     const HOST = 'localhost';
 
-    const USERNAME = 'themeadi_root';
+    const USERNAME = 'xxxxxxxxxx';
 
-    const PASSWORD = 'import_excel';
+    const PASSWORD = 'xxxxxxxxxx';
 
-    const DATABASENAME = 'themeadi_import_excel';
+    const DATABASENAME = 'xxxxxxxxx';
 
     private $conn;
 

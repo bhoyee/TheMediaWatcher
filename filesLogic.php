@@ -1,6 +1,6 @@
 <?php
 // connect to the database
-$conn = mysqli_connect('localhost', 'themeadi_root', 'import_excel', 'themeadi_import_excel');
+$conn = mysqli_connect('localhost', 'xxxxxxzxx', 'xxxxxxx', 'xxxxxxxxxxx');
 
 // Downloads files
 if (isset($_GET['file_id'])) {
